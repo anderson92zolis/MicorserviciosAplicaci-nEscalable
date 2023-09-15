@@ -1,4 +1,4 @@
-package com.uncledavecode.orders_service.model;
+package com.uncledavecode.orders_service.model.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
