@@ -1,4 +1,5 @@
 package com.uncledavecode.inventory_service.model.entities;
+
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,8 +1,9 @@
 package com.uncledavecode.orders_service.model.entities;
 
-import com.uncledavecode.orders_service.model.entities.Order;
+
 import jakarta.persistence.*;
 import lombok.*;
+
 @Entity
 @Table
 @Getter

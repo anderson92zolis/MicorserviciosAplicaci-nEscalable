@@ -1,4 +1,4 @@
-package com.uncledavecode.inventory_service.model.dtos;
+package com.uncledavecode.orders_service.model.dtos;
 
 public record BaseResponse(String[] errorMessages) {
     public boolean hasErrors() {
