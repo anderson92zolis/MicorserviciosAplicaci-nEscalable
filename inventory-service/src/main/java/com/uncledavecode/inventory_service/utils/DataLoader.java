@@ -1,4 +1,5 @@
 package com.uncledavecode.inventory_service.utils;
+
 import com.uncledavecode.inventory_service.model.entities.Inventory;
 import com.uncledavecode.inventory_service.repositories.InventoryRepository;
 import lombok.RequiredArgsConstructor;
